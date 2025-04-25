@@ -11,9 +11,6 @@ export default function HomeScreen() {
     'https://cdn-icons-png.freepik.com/512/6230/6230762.png',
     'https://cdn-icons-png.freepik.com/512/6230/6230762.png',
   ];
-  const handleLogout = () => {
-    console.log('Logout Button Pressed');
-  };
 
   return (
     <ScrollView style={styles.container}>

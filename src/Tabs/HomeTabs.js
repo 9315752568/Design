@@ -3,6 +3,7 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {View, Text, TouchableOpacity} from 'react-native';
 import HomeScreen from '../screens/HomeScreen';
 
+
 function PlaceholderScreen({name}) {
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
